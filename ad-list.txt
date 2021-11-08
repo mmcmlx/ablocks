@@ -54,3 +54,8 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 metrics.icloud.com 
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 samsungads.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
