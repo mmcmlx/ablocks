@@ -56,7 +56,7 @@
 0.0.0.0 metrics.icloud.com 
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 samsungads.com
-0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.co
 0.0.0.0 pixel.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 samsungads.com
@@ -67,3 +67,8 @@
 0.0.0.0 samsungotn.net
 0.0.0.0 samsungrm.net
 0.0.0.0 samsung.net/ads
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
