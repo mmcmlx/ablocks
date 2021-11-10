@@ -72,3 +72,4 @@
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungcloudsolution.com
 0.0.0.0 samsungcloudsolution.net
+0.0.0.0 information.dk/sites/all/themes/kashmir/images/house-ads
